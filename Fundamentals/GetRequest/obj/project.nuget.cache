@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozgpC+EV061nERqiN5Lu6io8jKqyXbFgP4aKEXuu3RBVMLTQaPj5eWqjeqeBYUoJ9xLqP/ZrmVomTeBSxOU7jQ==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/adria/Documents/NET/Basi.cs/Fundamentals/GetRequest/GetRequest.csproj",
+  "expectedPackageFiles": [
+    "/home/jonas/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
