@@ -32,20 +32,46 @@ _Que cosas necesitas para usar este repositorio_
 
 ### Instalación de mono 🔧
 
-_Primero claro, necesitamos mono compiler_
+_Primero claro, necesitamos mono_
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_Para Ubuntu 20.04, agregamos estos cértificados para acceder y descargar paquetes a traves de HTTPS_
 
 ```
-hasta finalizar
+sudo apt install gnupg ca-certificates
+```
+_Agrega la clave de registro_
+
+```
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+```
+_Agrega una dirección de repositorios_
+```
+echo "deb https://download.mono-project.com/repo/ubuntu stable-focal main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
+```
+_Finalmente actualizamos los repositorios_
+```
+sudo apt update
 ```
 
+_E instala _
+
+```
+sudo apt install mono-devel -y
+```
+
+_Otros paquetes de mono_
+
+_Instalar todo el paquete de mono, resuelve problemas como "Assembly not found"_
+
+```
+sudo apt install mono-complete -y
+```
+
+_Depurador de código_
+
+```
+sudo apt install mono-dbg -y
+```
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Ejecutando las pruebas ⚙️
