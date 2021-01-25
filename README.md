@@ -61,7 +61,7 @@ sudo apt install mono-devel -y
 
 _Otros paquetes de mono_
 
-_Instalar todo el paquete de mono, resuelve problemas como "Assembly not found"_
+_Instalar todo el paquete de mono-complete, resuelve problemas como "Assembly not found"_
 
 ```
 sudo apt install mono-complete -y
@@ -82,7 +82,7 @@ _Crea un archivo hello.cs_
 vim hello.cs
 ```
 
-<img src="Vim.gif" alt="Vim Editor"/>
+<img src="Gifs/Vim.gif" alt="Vim Editor"/>
 
 _Compilamos el archivo:_
 
@@ -95,7 +95,7 @@ _Nos arroja un archivo .exe y ahora lo corremos:_
 ```
 mono hello.exe
 ```
-<img src="Compile.gif" alt="Compile"/>
+<img src="Gifs/Compile.gif" alt="Compile"/>
 
 _Decompilamos el archivo:_
 
@@ -109,7 +109,7 @@ _Abrimos el archivo ensamblador:_
 vim hello.txt
 ```
 
-<img src="Decompile.gif" alt="Decompiled"/>
+<img src="Gifs/Decompile.gif" alt="Decompiled"/>
 
 
 
