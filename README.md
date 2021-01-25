@@ -95,7 +95,7 @@ _Nos arroja un archivo .exe y ahora lo corremos:_
 ```
 mono hello.exe
 ```
-<img src="Compile.gif" alt="Compile"/>
+<img src="Com.gif" alt="Compile"/>
 
 _Decompilamos el archivo:_
 
