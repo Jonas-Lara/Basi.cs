@@ -12,19 +12,19 @@ _Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **POO** p
 _Que cosas necesitas para usar este repositorio_
 
 ```
-#1 MONO, en nuestro caso usaremos Mono para ejecutar C# y no .NET core, porque Mono no te da plantillas, te obliga a usar comandos para compilar, correr, debug y decompilar proyectos a ensamblador. 
+#1 MONO, en nuestro caso usaremos Mono para ejecutar C# y no .NET core.
 ```
 ```
-#2 NuGet Package Manager para Mono, has intentado usar NuGet con Mono, animate será divertido.
+#2 NuGet Package Manager para Mono, ¿Alguna vez has intentado usar NuGet con Mono?
 ```
 ```
-#3 Un editor de texto plano, te recomiendo encarecidamente que no utilices un editor como Visual Studio Code, Sublime Text, Atom, tratemos de mantenerlo simple y así obtengas mejor conocimiento, recomendamos Gedit, Emacs ó Vim, checa mi repositorio de Vim para aprender a configurarlo y moverte de una manera mas fluida
+#3 Un editor de texto plano, te recomiendo encarecidamente que utilices Gedit, Emacs ó Vim. Aprenderás más.
 ```
 ```
-#4 La mayoría de estos ejercicios son fuentes de Microsoft, Mono, Uno Platoform, Odyssey, w3schools, FreeCodeCamp, etc. Aquí a lo que venimos.
+#4 La mayoría de estos ejercicios son fuentes de Microsoft, Mono, Uno Platoform, Odyssey, W3schools, FreeCodeCamp, Etc. 
 ```
 ```
-Paciencia
+Paciencia, Gusto y disciplina.
 ```
 
 ### Instalación 🔧
