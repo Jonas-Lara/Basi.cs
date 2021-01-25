@@ -4,7 +4,7 @@ _Este repositorio esta destinado a ser un biblia con ejemplos prácticos y conci
 
 ## Comenzando 🚀
 
-_Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **OOP (Oriented Objects Programing** para conocer a fondo el proyecto._
+_Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **OOP (Oriented Objects Programing)** para conocer a fondo el proyecto._
 
 
 ### Pre-requisitos 📋
@@ -12,24 +12,27 @@ _Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **OOP (Or
 _Que cosas necesitas para usar este repositorio_
 
 ```
-#1 MONO, en nuestro caso usaremos Mono para ejecutar C# y no .NET core.
+#1 Una máquina con Linux (SUSE, Fedora, Debian, Ubuntu, Etc.)
 ```
 ```
-#2 NuGet Package Manager para Mono, ¿Alguna vez has intentado usar NuGet con Mono?
+#2 MONO, en nuestro caso usaremos Mono para ejecutar C# y no .NET core.
 ```
 ```
-#3 Un editor de texto plano, te recomiendo encarecidamente que utilices Gedit, Emacs ó Vim. Aprenderás más.
+#3 NuGet Package Manager para Mono, ¿Alguna vez has intentado usar NuGet con Mono?
 ```
 ```
-#4 La mayoría de estos ejercicios son fuentes de Microsoft, Mono, Uno Platoform, Odyssey, W3schools, FreeCodeCamp, Etc. 
+#4 Un editor de texto plano, te recomiendo encarecidamente que utilices Gedit, Emacs ó Vim. Aprenderás más.
 ```
 ```
-#5 Paciencia, Gusto y disciplina.
+#5 La mayoría de estos ejercicios son fuentes de Microsoft, Mono, Uno Platoform, Odyssey, W3schools, FreeCodeCamp, Etc. 
+```
+```
+#6 Paciencia, Gusto y disciplina.
 ```
 
-### Instalación 🔧
+### Instalación de mono 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Primero claro, necesitamos mono compiler_
 
 _Dí cómo será ese paso_
 
