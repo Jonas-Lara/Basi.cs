@@ -53,7 +53,7 @@ _Finalmente actualizamos los repositorios_
 sudo apt update
 ```
 
-_E instala _
+_Instala _
 
 ```
 sudo apt install mono-devel -y
@@ -72,11 +72,44 @@ _Depurador de código_
 ```
 sudo apt install mono-dbg -y
 ```
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
+## Probando la instalación de mono con "Hello World" ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Crea un archivo hello.cs_
+
+
+```
+vim hello.cs
+```
+
+<img src="Vim.gif" alt="Vim Editor"/>
+
+_Compilamos el archivo con: _
+
+```
+csc hello.cs
+```
+
+_Nos arroja un archivo .exe y ahora lo corremos con: _
+
+```
+mono hello.exe
+```
+<img src="Compile.gif" alt="Compile"/>
+
+_Decompilamos el archivo con:_
+
+```
+monodis --output=hello.txt hello.exe
+```
+
+_Abrimos el archivo ensamblador con:_
+
+```
+vim hello.txt
+```
+
+<img src="Decompile.gif" alt="Decompiled"/>
 
 ### Analice las pruebas end-to-end 🔩
 
