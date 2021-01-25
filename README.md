@@ -4,7 +4,7 @@ _Este repositorio esta destinado a ser un biblia con ejemplos prácticos y conci
 
 ## Comenzando 🚀
 
-_Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **POO** para conocer a fondo el proyecto._
+_Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **OOP (Oriented Objects Programing** para conocer a fondo el proyecto._
 
 
 ### Pre-requisitos 📋
@@ -24,7 +24,7 @@ _Que cosas necesitas para usar este repositorio_
 #4 La mayoría de estos ejercicios son fuentes de Microsoft, Mono, Uno Platoform, Odyssey, W3schools, FreeCodeCamp, Etc. 
 ```
 ```
-Paciencia, Gusto y disciplina.
+#5 Paciencia, Gusto y disciplina.
 ```
 
 ### Instalación 🔧
