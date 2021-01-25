@@ -4,7 +4,7 @@ _Este repositorio esta destinado a ser un biblia con ejemplos prácticos y conci
 
 ## Comenzando 🚀
 
-_Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **POO** para conocer a fondo el proyecto.-
+_Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **POO** para conocer a fondo el proyecto._
 
 
 ### Pre-requisitos 📋
@@ -18,19 +18,13 @@ _Que cosas necesitas para usar este repositorio_
 #2 NuGet Package Manager para Mono, has intentado usar NuGet con Mono, animate será divertido.
 ```
 ```
-#3 Un editor de texto plano, en este tutorial usaremos Vim, pero te recomiendo encarecidamente que no utilices un editor como Visual Studio Code, Sublime Text, Atom, tratemos de mantenerlo simple y así obtengas mejor conocimiento, recomendamos Gedit, Emacs ó Vim, checa mi repositorio de Vim para aprender a configurarlo y moverte de una manera mas fluida
+#3 Un editor de texto plano, te recomiendo encarecidamente que no utilices un editor como Visual Studio Code, Sublime Text, Atom, tratemos de mantenerlo simple y así obtengas mejor conocimiento, recomendamos Gedit, Emacs ó Vim, checa mi repositorio de Vim para aprender a configurarlo y moverte de una manera mas fluida
 ```
 ```
-#La mayoría de estos ejercicios son fuentes de Microsoft, Mono, Uno Platoform, Odyssey, w3schools, etc. Aquí a lo vamos.
+#4 La mayoría de estos ejercicios son fuentes de Microsoft, Mono, Uno Platoform, Odyssey, w3schools, FreeCodeCamp, etc. Aquí a lo que venimos.
 ```
 ```
-Da un ejemplo
-```
-```
-Da un ejemplo
-```
-```
-Da un ejemplo
+Paciencia
 ```
 
 ### Instalación 🔧
