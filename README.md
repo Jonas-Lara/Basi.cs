@@ -84,13 +84,13 @@ vim hello.cs
 
 <img src="Vim.gif" alt="Vim Editor"/>
 
-_Compilamos el archivo con: _
+_Compilamos el archivo con _
 
 ```
 csc hello.cs
 ```
 
-_Nos arroja un archivo .exe y ahora lo corremos con: _
+_Nos arroja un archivo .exe y ahora lo corremos con_
 
 ```
 mono hello.exe
@@ -103,7 +103,7 @@ _Decompilamos el archivo con:_
 monodis --output=hello.txt hello.exe
 ```
 
-_Abrimos el archivo ensamblador con:_
+_Abrimos el archivo ensamblador con_
 
 ```
 vim hello.txt
