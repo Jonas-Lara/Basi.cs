@@ -4,13 +4,31 @@ _Este repositorio esta destinado a ser un biblia con ejemplos prácticos y conci
 
 ## Comenzando 🚀
 
-_Mira Dentro de la carpeta **Basics**  **Fundamentals** **Hacks** **POO** para conocer a fondo el proyecto.-
+_Mira dentro de las carpetas **Basics**, **Fundamentals**, **Hacks** y **POO** para conocer a fondo el proyecto.-
 
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Que cosas necesitas para usar este repositorio_
 
+```
+#1 MONO, en nuestro caso usaremos Mono para ejecutar C# y no .NET core, porque Mono no te da plantillas, te obliga a usar comandos para compilar, correr, debug y decompilar proyectos a ensamblador. 
+```
+```
+#2 NuGet Package Manager para Mono, has intentado usar NuGet con Mono, animate será divertido.
+```
+```
+#3 Un editor de texto plano, en este tutorial usaremos Vim, pero te recomiendo encarecidamente que no utilices un editor como Visual Studio Code, Sublime Text, Atom, tratemos de mantenerlo simple y así obtengas mejor conocimiento, recomendamos Gedit, Emacs ó Vim, checa mi repositorio de Vim para aprender a configurarlo y moverte de una manera mas fluida
+```
+```
+#La mayoría de estos ejercicios son fuentes de Microsoft, Mono, Uno Platoform, Odyssey, w3schools, etc. Aquí a lo vamos.
+```
+```
+Da un ejemplo
+```
+```
+Da un ejemplo
+```
 ```
 Da un ejemplo
 ```
