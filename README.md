@@ -53,7 +53,7 @@ _Finalmente actualizamos los repositorios_
 sudo apt update
 ```
 
-_Instala _
+_Instala_
 
 ```
 sudo apt install mono-devel -y
@@ -95,7 +95,7 @@ _Nos arroja un archivo .exe y ahora lo corremos:_
 ```
 mono hello.exe
 ```
-<img src="Compile.gif" alt="Compile"/>
+<img src="Compiled1.gif" alt="Compile"/>
 
 _Decompilamos el archivo:_
 
@@ -111,21 +111,8 @@ vim hello.txt
 
 <img src="Decompile.gif" alt="Decompiled"/>
 
-### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
 
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ## Despliegue 📦
 
