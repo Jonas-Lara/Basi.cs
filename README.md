@@ -1,12 +1,10 @@
-# Título del Proyecto
-
-_Basi.cs_
-
-## Comenzando 🚀
+# Basi.cs
 
 _Este repositorio esta destinado a ser un biblia con ejemplos prácticos y concisos sobre el uso de C#, ojala puedas aportar_
 
-Mira Dentro de la carpeta **Basics**  **Fundamentals** **Hacks** **POO** para conocer a fondo el proyecto.
+## Comenzando 🚀
+
+_Mira Dentro de la carpeta **Basics**  **Fundamentals** **Hacks** **POO** para conocer a fondo el proyecto.-
 
 
 ### Pre-requisitos 📋
