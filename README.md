@@ -32,8 +32,6 @@ _Que cosas necesitas para usar este repositorio_
 
 ### Instalación de mono 🔧
 
-_Primero claro, necesitamos mono_
-
 _Para Ubuntu 20.04, agregamos estos cértificados para acceder y descargar paquetes a traves de HTTPS_
 
 ```
@@ -58,8 +56,6 @@ _Instala_
 ```
 sudo apt install mono-devel -y
 ```
-
-_Otros paquetes de mono_
 
 _Instalar todo el paquete de mono-complete, resuelve problemas como "Assembly not found"_
 
